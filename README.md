@@ -48,6 +48,8 @@ Utilized Excel's pivot tables for systematic data analysis and visualization. Ke
    - Middle-aged customers (31-54 years) made the most bike purchases.
 
 ![Dashboard Image](excelsalees (1).jpg)
+![Dashboard Image](images/excelsalees (1).jpg)
+
 
 ## Enhancements with Slicers
 
