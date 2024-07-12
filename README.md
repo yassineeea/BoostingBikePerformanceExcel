@@ -4,7 +4,7 @@
 
 This project involves the analysis of bike sales data obtained from Kaggle. The dataset includes customer information and demographics related to bike purchases, encompassing various factors such as income, gender, age, and region.
 
-## Tools Used
+## Tools Used ⛏️🧑🏽‍💻
 
 - Excel: Pivot Tables, Formulas, XLOOKUP, Conditional Formatting, Charts.
 
@@ -47,7 +47,7 @@ Utilized Excel's pivot tables for systematic data analysis and visualization. Ke
 3. **Preferred Age Bracket for Bike Purchases**:
    - Middle-aged customers (31-54 years) made the most bike purchases.
 
-![Dashboard Image](excelsalees (1).jpg)
+![Dashboard Image](images/excelsalees (1).jpg)
 
 ## Enhancements with Slicers
 
