@@ -47,7 +47,7 @@ Utilized Excel's pivot tables for systematic data analysis and visualization. Ke
 3. **Preferred Age Bracket for Bike Purchases**:
    - Middle-aged customers (31-54 years) made the most bike purchases.
 
-![Dashboard Image](images/dashboard.png)
+![Dashboard Image](excelsalees (1).jpg)
 
 ## Enhancements with Slicers
 
